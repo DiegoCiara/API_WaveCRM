@@ -1,0 +1,4 @@
+yarn run v1.22.19
+$ ts-node-dev ./node_modules/typeorm/cli.js -f ./ormconfig.ts schema
+[INFO] 18:50:37 ts-node-dev ver. 1.1.8 (using ts-node ver. 9.1.1, typescript ver. 4.9.5)
+Deseja finalizar o arquivo em lotes (S/N)? 
